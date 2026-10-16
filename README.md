@@ -2,7 +2,7 @@
 
 # 📮&nbsp;&nbsp;go-bouncer
 
-**A small, typed Go SDK for the Bouncer email-verification API v1.1: real-time, batch-sync and asynchronous batches.**
+**Unofficial Go SDK for the Bouncer email-verification API v1.1**
 
 <br/>
 
