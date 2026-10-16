@@ -1,0 +1,5 @@
+{
+    "error": "Payment Required",
+    "message": "synthetic message: not enough credits",
+    "status": "402"
+}

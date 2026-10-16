@@ -1,0 +1,26 @@
+{
+    "account": {
+        "disabled": "no",
+        "fullMailbox": "no",
+        "role": "no"
+    },
+    "didYouMean": "avery.example@example.org",
+    "dns": {
+        "record": "mx1.example.com",
+        "type": "MX"
+    },
+    "domain": {
+        "acceptAll": "no",
+        "disposable": "no",
+        "free": "yes",
+        "name": "example.com"
+    },
+    "email": "avery.example@example.com",
+    "provider": "example-mail",
+    "reason": "accepted_email",
+    "retryAfter": "2026-01-02T03:04:05.678Z",
+    "score": 94,
+    "status": "deliverable",
+    "toxic": "unknown",
+    "toxicity": 0
+}

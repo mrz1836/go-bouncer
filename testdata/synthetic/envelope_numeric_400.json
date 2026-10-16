@@ -1,0 +1,5 @@
+{
+    "error": "Bad Request",
+    "message": "synthetic message: batch cannot be finished",
+    "status": 400
+}

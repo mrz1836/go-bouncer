@@ -1,0 +1,8 @@
+[
+    {
+        "email": "avery.example@example.com",
+        "reason": "accepted_email",
+        "score": 88,
+        "status": "deliverable"
+    }
+]

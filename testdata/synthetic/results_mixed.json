@@ -1,0 +1,27 @@
+[
+    {
+        "email": "avery.example@example.com",
+        "name": "row-1",
+        "reason": "accepted_email",
+        "score": 91,
+        "status": "deliverable"
+    },
+    {
+        "domain": {
+            "acceptAll": "yes",
+            "disposable": "no",
+            "free": "no",
+            "name": "example.net"
+        },
+        "email": "blake.example@example.net",
+        "reason": "low_quality",
+        "score": 0,
+        "status": "risky"
+    },
+    {
+        "email": "casey.example@example.org",
+        "reason": "rejected_email",
+        "score": "",
+        "status": "undeliverable"
+    }
+]

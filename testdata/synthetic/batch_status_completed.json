@@ -1,0 +1,17 @@
+{
+    "batchId": "5f0c2b9e8d7a6b5c4d3e2f1a",
+    "completed": "2026-01-02T03:09:10.111Z",
+    "created": "2026-01-02T03:04:05.678Z",
+    "credits": 2,
+    "duplicates": 0,
+    "processed": 2,
+    "quantity": 2,
+    "started": "2026-01-02T03:04:06.789Z",
+    "stats": {
+        "deliverable": 1,
+        "risky": 1,
+        "undeliverable": 0,
+        "unknown": 0
+    },
+    "status": "completed"
+}
